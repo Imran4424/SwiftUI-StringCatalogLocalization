@@ -8,11 +8,19 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var name = "Dear"
     @State private var loveCounter = 3000
     
     var body: some View {
         NavigationStack {
             VStack {
+                Spacer()
+                
+                Text("Do you know \(name)?")
+                    .font(.title)
+                
+                Spacer()
+                Spacer()
                 Spacer()
                 
                 HStack {
@@ -22,6 +30,8 @@ struct ContentView: View {
                         .foregroundStyle(Color.red)
                 }
                 
+                Spacer()
+                Spacer()
                 Spacer()
                 
                 HStack {
