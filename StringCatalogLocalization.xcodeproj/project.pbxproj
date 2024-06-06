@@ -11,6 +11,7 @@
 		1D4C60492C11C94F00B420FD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D4C60482C11C94F00B420FD /* ContentView.swift */; };
 		1D4C604B2C11C95000B420FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D4C604A2C11C95000B420FD /* Assets.xcassets */; };
 		1D4C604E2C11C95000B420FD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D4C604D2C11C95000B420FD /* Preview Assets.xcassets */; };
+		1D4C60552C11DC1900B420FD /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 1D4C60542C11DC1900B420FD /* Localizable.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1D4C60482C11C94F00B420FD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1D4C604A2C11C95000B420FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D4C604D2C11C95000B420FD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1D4C60542C11DC1900B420FD /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				1D4C60462C11C94F00B420FD /* StringCatalogLocalizationApp.swift */,
 				1D4C60482C11C94F00B420FD /* ContentView.swift */,
+				1D4C60542C11DC1900B420FD /* Localizable.xcstrings */,
 				1D4C604A2C11C95000B420FD /* Assets.xcassets */,
 				1D4C604C2C11C95000B420FD /* Preview Content */,
 			);
@@ -109,6 +112,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"bn-BD",
 			);
 			mainGroup = 1D4C603A2C11C94F00B420FD;
 			productRefGroup = 1D4C60442C11C94F00B420FD /* Products */;
@@ -127,6 +131,7 @@
 			files = (
 				1D4C604E2C11C95000B420FD /* Preview Assets.xcassets in Resources */,
 				1D4C604B2C11C95000B420FD /* Assets.xcassets in Resources */,
+				1D4C60552C11DC1900B420FD /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
