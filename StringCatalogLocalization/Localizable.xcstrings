@@ -11,20 +11,72 @@
         }
       }
     },
+    "Dear" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bn-BD" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্রিয়"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dear"
+          }
+        }
+      }
+    },
     "Do you know %@?" : {
-
+      "localizations" : {
+        "bn-BD" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "তুমি কি জানো, %@?"
+          }
+        }
+      }
     },
     "I love you" : {
-
+      "localizations" : {
+        "bn-BD" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আমি তোমাকে ভালোবাসি"
+          }
+        }
+      }
     },
     "Localization App" : {
-
+      "localizations" : {
+        "bn-BD" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Localisation App"
+          }
+        }
+      }
     },
     "Random" : {
-
+      "localizations" : {
+        "bn-BD" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "এলোমেলো"
+          }
+        }
+      }
     },
     "Reset" : {
-
+      "localizations" : {
+        "bn-BD" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "পুনঃস্থাপন"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"

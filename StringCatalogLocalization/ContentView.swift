@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var name = "Dear"
+    @State private var name: LocalizedStringResource = "Dear"
     @State private var loveCounter = 3000
     
     var body: some View {
